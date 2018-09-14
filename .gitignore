@@ -1,3 +1,12 @@
+bin.v2/
+stage/
+tools/build/v2/engine/bin.linuxx86_64/
+tools/build/v2/engine/bootstrap/
+b2
+bjam
+bootstrap.log
+project-config.jam
+
 # Prerequisites
 *.d
 
